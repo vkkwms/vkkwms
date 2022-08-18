@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vkkwms, a data analyst.
-- 👀 I’m interested in R, SQL, Azure, GitHub, Microsoft Power Platform.
-- 🌱 I’m currently learning SQL, Azure, GitHub, Power BI.
+- 👀 I’m interested in R, Python, SQL, Azure, GitHub, Microsoft Power Platform.
+- 🌱 I’m currently learning SQL, Python, Azure, GitHub, Power BI.
